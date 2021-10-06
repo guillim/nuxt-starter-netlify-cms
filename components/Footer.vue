@@ -11,7 +11,7 @@
                     to="/"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    Home
+                    Retour
                   </nuxt-link>
                 </li>
                 <li>
@@ -19,15 +19,7 @@
                     to="/about"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    About
-                  </nuxt-link>
-                </li>
-                <li>
-                  <nuxt-link
-                    to="/products"
-                    class="text-base leading-6 text-gray-300 hover:text-white"
-                  >
-                    Products
+                    Qui sommes-nous
                   </nuxt-link>
                 </li>
                 <li>
@@ -46,18 +38,10 @@
               <ul class="mt-4 space-y-4">
                 <li>
                   <nuxt-link
-                    to="/blog"
-                    class="text-base leading-6 text-gray-300 hover:text-white"
-                  >
-                    Latest Stories
-                  </nuxt-link>
-                </li>
-                <li>
-                  <nuxt-link
                     to="/contact"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    Contact
+                    Nous contacter
                   </nuxt-link>
                 </li>
               </ul>
