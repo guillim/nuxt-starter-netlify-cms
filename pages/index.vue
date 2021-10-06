@@ -25,7 +25,7 @@
             {{ post.description }}
           </p>
           <p>
-            <nuxt-link :to="`/blog/${post.slug}`">Read more</nuxt-link>
+            <nuxt-link :to="`/blog/${post.slug}`">En savoir plus</nuxt-link>
           </p>
         </div>
       </div>
