@@ -1,12 +1,12 @@
 ---
 title: Lieu
 date: 2016-12-17T15:04:10.000Z
-description: Nous vous attendons au château du Touvet
+description: Nous vous attendons au château du Touvet 🙂
 tags:
   - flavor
   - tasting
 ---
-Nous vous attendons au château du Touvet 🙂
+
 
 ![touvet](/img/tou.jpg "chateau du touvet")
 
