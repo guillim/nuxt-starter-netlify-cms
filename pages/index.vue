@@ -11,9 +11,6 @@
       <p>
         {{ page.mainpitch.description }}
       </p>
-      <p>
-        {{ page.description }}
-      </p>
       <h2 class="text-center m-auto" >Quelques infos :</h2>
       <div class="lg:grid lg:grid-cols-2 lg:gap-8">
         <div
