@@ -24,10 +24,6 @@
                     Admin
                   </a>
                 </li>
-              </ul>
-            </div>
-            <div class="mt-12 md:mt-0">
-              <ul class="mt-4 space-y-4">
                 <li>
                   <nuxt-link
                     to="/contact"
