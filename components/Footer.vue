@@ -15,14 +15,6 @@
                   </nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link
-                    to="/about"
-                    class="text-base leading-6 text-gray-300 hover:text-white"
-                  >
-                    Qui sommes-nous
-                  </nuxt-link>
-                </li>
-                <li>
                   <a
                     href="/admin"
                     target="_blank"
