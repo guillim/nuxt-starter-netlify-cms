@@ -46,12 +46,6 @@ collections:
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text} ]}
           - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text} ]}
-      - file: '/content/about.md'
-        label: 'About'
-        name: 'about'
-        fields:
-          - {label: 'Title', name: 'title', widget: 'string'}
-          - {label: 'Body', name: 'body', widget: 'markdown'}
       - file: '/content/products.md'
         label: 'Products Page'
         name: 'products'
