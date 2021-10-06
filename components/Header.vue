@@ -57,7 +57,7 @@
                 <nuxt-link to="/" @click.native="toggleMenu">
                   <img
                     class="h-5"
-                    src="/assets/images/logo.svg"
+                    src="/assets/images/screenshot_2021-10-06_at_16.09.19-removebg-preview.png"
                     alt="Workflow"
                   />
                 </nuxt-link>
