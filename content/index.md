@@ -2,7 +2,7 @@
 title: Mariage de Lucile et Guillaume
 image: /img/dsc_0122.jpg
 heading: Mariage de Lucile & Guillaume
-subheading: 16 juillet 2022
+subheading: 🗓️ 16 juillet 2022
 mainpitch:
   title: ❤️
   description: Nous nous marions ❤️ le 16 juillet 2022, et nous comptons sur vous !
