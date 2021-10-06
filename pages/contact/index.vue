@@ -2,7 +2,7 @@
   <div
     class="px-8 mx-auto mt-12 prose sm:px-6 md:px-4 lg:px-2 xl:px-0 xl:prose-xl lg:prose-lg md:prose-md"
   >
-    <h2>Contact</h2>
+    <h2>Une envie de nous envoyer un messaege ?</h2>
     <form
       name="contact"
       method="post"
@@ -13,7 +13,7 @@
     >
       <input type="hidden" name="form-name" value="contact" />
       <input class="hidden" name="bot-field" value="" />
-      <label class="label" for="name">Your name</label>
+      <label class="label" for="name">Nom</label>
       <div class="control">
         <input
           id="name"
