@@ -17,6 +17,7 @@
           v-for="(post, index) in posts"
           :key="index"
           class="px-6 border rounded-lg shadow my-2"
+          style="box-shadow:0 1px 3px 0 #3c814b66"
         >
           <h3>
             <nuxt-link :to="`/blog/${post.slug}`">{{ post.title }}</nuxt-link>
