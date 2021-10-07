@@ -1,7 +1,7 @@
 ---
 title: Hébergement
 date: 2021-10-06T15:30:45.284Z
-description: Voici une liste pour vous aider à trouver un endroit où dormir
+description: 🏠 Voici une liste pour vous aider à trouver un endroit où dormir
 ---
 ## Quelques liens :
 * [Evasion au Naturel](https://www.evasionaunaturel.com/fr/)
