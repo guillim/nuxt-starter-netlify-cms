@@ -1,7 +1,7 @@
 ---
 title: Liste de mariage
 date: 2021-10-06T15:56:09.392Z
-description: with ❤️
+description: 🙏🏻
 ---
 On vous propose plusieurs options pour nous régaler via :
 
