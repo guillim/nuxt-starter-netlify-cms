@@ -23,7 +23,7 @@
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^4.0.0",
+    "@nuxtjs/eslint-config": "^5.0.0",
     "@nuxtjs/eslint-module": "^2.0.0",
     "@nuxtjs/tailwindcss": "^3.1.0",
     "@release-it/conventional-changelog": "^2.0.0",
@@ -34,7 +34,7 @@
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.2",
-    "release-it": "^14.2.1",
+    "release-it": "^14.11.6",
     "remark-cli": "^9.0.0",
     "remark-frontmatter": "^3.0.0",
     "remark-lint": "^8.0.0",
