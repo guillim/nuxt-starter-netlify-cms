@@ -40,7 +40,7 @@
               to="/contact"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
-              Contact
+              ✉ Contact
             </nuxt-link>
           </nav>
         </div>
@@ -93,7 +93,7 @@
                   class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700"
                   @click.native="toggleMenu"
                 >
-                  Contact
+                  ✉ Contact
                 </nuxt-link>
               </div>
             </div>
