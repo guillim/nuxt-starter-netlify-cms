@@ -5,7 +5,7 @@
         <div class="">
           <div class="">
             <div>
-              <ul class="mt-4 space-y-4 flex justify-between">
+              <ul class="mt-4 flex justify-between">
                 <li>
                   <nuxt-link
                     to="/"
