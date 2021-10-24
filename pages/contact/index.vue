@@ -13,7 +13,7 @@
     >
       <input type="hidden" name="form-name" value="contact" />
       <input class="hidden" name="bot-field" value="" />
-      <label class="label" for="name">Nom</label>
+      <label class="label" for="name">Votre nom</label>
       <div class="control">
         <input
           id="name"
@@ -23,7 +23,7 @@
           required
         />
       </div>
-      <label class="label" htmlFor="email">Email</label>
+      <label class="label" htmlFor="email">Votre email (qu'on puisse vous répondre)</label>
       <div class="control">
         <input
           id="email"
@@ -33,7 +33,7 @@
           required
         />
       </div>
-      <label class="label" htmlFor="message">Message</label>
+      <label class="label" htmlFor="message">Votre message</label>
       <div class="control">
         <textarea
           id="message"
