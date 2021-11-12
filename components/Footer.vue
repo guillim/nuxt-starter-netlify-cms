@@ -1,5 +1,5 @@
 <template>
-  <footer class="mt-12 bg-gray-800" style="position: absolute;    bottom: 0;    width: 100%;">
+  <footer class="mt-12 bg-gray-800" style="margin-top:auto">
     <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 lg:py-16 lg:px-8">
       <div class="">
         <div class="">
