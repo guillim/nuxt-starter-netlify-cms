@@ -22,4 +22,5 @@ On vous propose des options, mais soyez libres d'ouvrir votre guide Michelin !
 <iframe src="https://www.google.com/search?q=hotel+touvet++15+juillet+&igu=1&ei=ncRdYa2RJeuTlwSYzZuIAQ&ved=0ahUKEwjt0_fKkLbzAhXryYUKHZjmBhEQ4dUDCA4&uact=5&oq=hotel+touvet++15+juillet+&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADSgQIQRgAUKsOWKsOYJYWaAFwAngAgAGwAYgBsAGSAQMwLjGYAQCgAQHIAQLAAQE&sclient=gws-wiz" class="min-w-full" width="100%" height="800px"></iframe>
 
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/4hjFPpu5ZTTvG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IcGkqdUmYLFGE"></a></p>
 
