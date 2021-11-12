@@ -43,9 +43,6 @@
         />
       </div>
       <div class="text-right">
-        <button class="px-6 py-1 border border-gray-200 rounded" type="reset">
-          Annuler
-        </button>
         <button class="px-6 py-1 text-white rounded bg-kaldi" type="submit">
           Envoyer
         </button>
