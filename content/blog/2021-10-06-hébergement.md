@@ -18,7 +18,8 @@ On vous rappelle aussi que c'est un week-end de 4 jours si vous souhaitez profit
 * [La maison au bois dormant](https://www.gites.fr/gites_cosy-la-maison-au-bois-dormant_barraux_h1888634.htm) : 14min du Touvet
 * Ibis Style Crolles Grenoble : 15min du Touvet
 * [Little InterVal](https://www.little-interval.com/) : 15min du Touvet
-* [Les buissons fleuris](https://chalets-chartreuse.com/) : 20 min du Touvet
+* [Les buissons fleuris](https://chalets-chartreuse.com/) : 20min du Touvet
+* [Domaine de Pierrambre] (http://www.domainedepierrambre.com/acces_097.htm) : 20min du Touvet
 * Chez Alain Coudurier : <a href="tel:0676517549">0676517549</a> (appeler de la part de Charles-Henri Gayet)
 * Chez Jean-François Maréchal : <a href="tel:0603254196">0603254196</a>  (appeler de la part de Charles-Henri Gayet)
 * [Camping du lac de la terrasse](https://campinglacdelaterrasse.com/) : 10min du Touvet
