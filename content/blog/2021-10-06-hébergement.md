@@ -20,6 +20,7 @@ On vous rappelle aussi que c'est un week-end de 4 jours si vous souhaitez profit
 * Ibis Style Crolles Grenoble : 15min du Touvet
 * [Gîtes de St Bernard du Touvet](http://www.saintbernarddutouvet.fr/) : <a href="tel:0637106309">0637106309</a> 15min du Touvet, 3 gîtes pour 4 personnes & un pour 15 personnes
 * [Château le Clément](https://chateauleclement.fr/) : 16min du Touvet
+* [Holiday Inn] (http://domaine-des-fontaines.com/) : 17min du Touvet
 * [Les buissons fleuris](https://chalets-chartreuse.com/) : 20min du Touvet
 * [Domaine de Pierrambre](http://www.domainedepierrambre.com/acces_097.htm) : 20min du Touvet
 * [Camping des petites roches](https://www.camping-petites-roches.fr/tourisme/camping-municipal/) : 20min du Touvet
