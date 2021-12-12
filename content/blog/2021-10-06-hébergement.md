@@ -13,7 +13,8 @@ On vous rappelle aussi que c'est un week-end de 4 jours si vous souhaitez profit
 
 * [La maison d'Euterpe](http://www.lamaisondeuterpe.com/) : 6min du Touvet
 * [Sur le breuil](https://www.gites-de-france.com/fr/auvergne-rhone-alpes/isere/sur-le-breuil-38g181050) : 10min du Touvet
-* [Château le Clément] (https://chateauleclement.fr/) : 16min du Touvet
+* [La Grangeolyne] (https://www.la-grangeolyne.fr/) : 10 min du Touvet
+* [Château le Clément](https://chateauleclement.fr/) : 16min du Touvet
 * [Gîte de maltaverne](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-de-maltaverne-73G151117.html) : 25min du Touvet, pour 8 personnes
 * [Gîtes du Granier](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-du-granier-73G17105.html) : 25min du Touvet, pour 5 personnes
 * [Gîtes de St Bernard du Touvet](http://www.saintbernarddutouvet.fr/) : <a href="tel:0637106309">0637106309</a> 15min du Touvet, 3 gîtes pour 4 personnes & un pour 15 personnes
