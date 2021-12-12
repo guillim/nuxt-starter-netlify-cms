@@ -13,20 +13,20 @@ On vous rappelle aussi que c'est un week-end de 4 jours si vous souhaitez profit
 
 * [La maison d'Euterpe](http://www.lamaisondeuterpe.com/) : 6min du Touvet
 * [Sur le breuil](https://www.gites-de-france.com/fr/auvergne-rhone-alpes/isere/sur-le-breuil-38g181050) : 10min du Touvet
-* [La Grangeolyne] (https://www.la-grangeolyne.fr/) : 10 min du Touvet
-* [Château le Clément](https://chateauleclement.fr/) : 16min du Touvet
-* [Gîte de maltaverne](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-de-maltaverne-73G151117.html) : 25min du Touvet, pour 8 personnes
-* [Gîtes du Granier](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-du-granier-73G17105.html) : 25min du Touvet, pour 5 personnes
-* [Gîtes de St Bernard du Touvet](http://www.saintbernarddutouvet.fr/) : <a href="tel:0637106309">0637106309</a> 15min du Touvet, 3 gîtes pour 4 personnes & un pour 15 personnes
+* [La Grangeolyne](https://www.la-grangeolyne.fr/) : 10 min du Touvet
+* [Camping du lac de la terrasse](https://campinglacdelaterrasse.com/) : 10min du Touvet
 * [La maison au bois dormant](https://www.gites.fr/gites_cosy-la-maison-au-bois-dormant_barraux_h1888634.htm) : 14min du Touvet
-* Ibis Style Crolles Grenoble : 15min du Touvet
 * [Little InterVal](https://www.little-interval.com/) : 15min du Touvet
+* Ibis Style Crolles Grenoble : 15min du Touvet
+* [Gîtes de St Bernard du Touvet](http://www.saintbernarddutouvet.fr/) : <a href="tel:0637106309">0637106309</a> 15min du Touvet, 3 gîtes pour 4 personnes & un pour 15 personnes
+* [Château le Clément](https://chateauleclement.fr/) : 16min du Touvet
 * [Les buissons fleuris](https://chalets-chartreuse.com/) : 20min du Touvet
 * [Domaine de Pierrambre](http://www.domainedepierrambre.com/acces_097.htm) : 20min du Touvet
+* [Camping des petites roches](https://www.camping-petites-roches.fr/tourisme/camping-municipal/) : 20min du Touvet
+* [Gîte de maltaverne](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-de-maltaverne-73G151117.html) : 25min du Touvet, pour 8 personnes
+* [Gîtes du Granier](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-du-granier-73G17105.html) : 25min du Touvet, pour 5 personnes
 * Chez Alain Coudurier : <a href="tel:0676517549">0676517549</a> (appeler de la part de Charles-Henri Gayet)
 * Chez Jean-François Maréchal : <a href="tel:0603254196">0603254196</a>  (appeler de la part de Charles-Henri Gayet)
-* [Camping du lac de la terrasse](https://campinglacdelaterrasse.com/) : 10min du Touvet
-* [Camping des petites roches](https://www.camping-petites-roches.fr/tourisme/camping-municipal/) : 20min du Touvet
 
 ### Sites de réservation :
 
