@@ -9,15 +9,15 @@ On vous suggère de réserver un logement **proche du château du Touvet**, où 
 
 On vous rappelle aussi que c'est un week-end de 4 jours si vous souhaitez profiter de la région : escalade, surf à Tencin (si si), parapente, randos, acrobranche...
 
-
-
 ### Suggestions :
-- [Gîte de maltaverne](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-de-maltaverne-73G151117.html) : 25min du Touvet, pour 8 personnes
-- [Gîtes du Granier](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-du-granier-73G17105.html) : 25min du Touvet, pour 5 personnes
-- [Gîtes de St Bernard du Touvet](http://www.saintbernarddutouvet.fr/) : <a href="tel:0637106309">0637106309</a> 15min du Touvet, 3 gîtes pour 4 personnes & un pour 15 personnes
-- Chez Alain Coudurier : <a href="tel:0676517549">0676517549</a> (appeler de la part de Charles-Henri Gayet)
-- Chez Jean-François Maréchal : <a href="tel:0603254196">0603254196</a>  (appeler de la part de Charles-Henri Gayet)
-- [Camping du lac de la terrasse](https://campinglacdelaterrasse.com/) : 10min du Touvet
+
+* [Gîte de maltaverne](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-de-maltaverne-73G151117.html) : 25min du Touvet, pour 8 personnes
+* [Gîtes du Granier](https://www.gites-de-france-savoie.com/Hebergements/gite/gite-du-granier-73G17105.html) : 25min du Touvet, pour 5 personnes
+* [Gîtes de St Bernard du Touvet](http://www.saintbernarddutouvet.fr/) : <a href="tel:0637106309">0637106309</a> 15min du Touvet, 3 gîtes pour 4 personnes & un pour 15 personnes
+* Ibis Style Crolles Grenoble : 15min du Touvet
+* Chez Alain Coudurier : <a href="tel:0676517549">0676517549</a> (appeler de la part de Charles-Henri Gayet)
+* Chez Jean-François Maréchal : <a href="tel:0603254196">0603254196</a>  (appeler de la part de Charles-Henri Gayet)
+* [Camping du lac de la terrasse](https://campinglacdelaterrasse.com/) : 10min du Touvet
 
 ### Sites de réservation :
 
