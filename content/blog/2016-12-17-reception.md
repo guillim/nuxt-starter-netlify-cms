@@ -1,5 +1,6 @@
 ---
 title: Réception
+order: 2
 date: 2016-12-17T15:04:10.000Z
 description: 🏰 Nous vous attendons au château du Touvet (Isère) à partir de 18h
 ---

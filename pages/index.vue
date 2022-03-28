@@ -42,7 +42,7 @@ export default {
   async asyncData({ $content }) {
     const page = await $content('index').fetch()
     const posts = await $content('blog').fetch()
-
+    posts.sort( (a,b) => a.order - b.order)
     return {
       page,
       posts,
