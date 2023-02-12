@@ -34,7 +34,7 @@
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-prettier": "^3.4.1",
     "prettier": "^2.4.1",
-    "release-it": "^14.2.1",
+    "release-it": "^15.6.0",
     "remark-cli": "^9.0.0",
     "remark-frontmatter": "^3.0.0",
     "remark-lint": "^8.0.0",
